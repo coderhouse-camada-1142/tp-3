@@ -1,0 +1,120 @@
+.menu {
+	list-style-type: none;
+	color: black;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+}
+
+li a {
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+
+li a:hover {
+	background: black;
+	color: white;
+}
+
+#imagenindex {
+	font-family: 'Raleway', sans-serif;
+	text-indent: 25%;
+	font-size: 24px;
+	color: white;
+	width: 2000px;
+	height: 688px;
+	background-image: url("C:/Users/Santi/Documents/CODERHOUSE/TP3/Images/indexbanner-bg3.jpg");
+}
+
+#imagenindex p {
+	line-height: 5px;
+	font-size: 0.65em;
+}
+
+#barra {
+	color: white;
+	width: 60%;
+	height: 30px;
+}
+
+#boton {
+	color: white;
+	background: lightblue;
+	height: 30px;
+	width: 80px;
+}
+.mayuscula {
+	letter-spacing: 2px;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+#description article {
+	width: 150px;
+	height: 200px;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif
+	font-size: 9px;
+}
+
+.principal article {
+	width: 300px;
+	height: 100px;
+}
+
+#imagenpricing {
+	font-family: 'Raleway', sans-serif;
+	/*font-family: 'Open Sans', sans-serif;*/
+	font-weight: bolder;
+	font-size: 24px;
+	text-indent: 50%;
+	width: 2000px;
+	height: 573px;
+	background-image: url("C:/Users/Santi/Documents/CODERHOUSE/TP3/Images/pricing-bg.jpg");
+}
+
+#imagenpricing h5 {
+	color: grey;
+	font-weight: normal;
+}
+
+.planes {
+	text-transform: uppercase;
+	color: white;
+	background: lightblue;
+	width: 200px;
+	height: 30px;
+	border-radius: 5px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.rectangulo {
+	width: 200px;
+	height: 400px;
+	box-shadow: 3px 5px 5px grey;
+}
+
+footer {
+	background: #072a40;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#oscuro {
+	background: #000f1f;
+}
+
+footer #oscuro ul.menu li a {
+	color: white;
+}
+
+span {
+	color: blue;
+	font-size: 1.5em;
+}
